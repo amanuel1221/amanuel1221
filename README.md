@@ -64,9 +64,11 @@
 
 ## 📈 GitHub Stats
 
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel1221&show_icons=true&theme=radical)  
+![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel1221&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical)
 
----
+--
+
 
 ## 📫 Contact Me
 
