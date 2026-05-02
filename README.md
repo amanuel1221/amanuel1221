@@ -68,6 +68,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical)
 
 --
+[![Amanuel Amare profile views](https://u8views.com/api/v1/github/profiles/193352217/views/day-week-month-total-count.svg)](https://u8views.com/github/amanuel1221)
 
 
 ## 📫 Contact Me
