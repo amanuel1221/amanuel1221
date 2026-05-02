@@ -1,9 +1,26 @@
 # Hi there 👋 I'm Amanuel
 
+Passionate Frontend Developer dedicated to crafting seamless user experiences. After completing intensive training at ALX, I transitioned into building specialized projects like NuuR (an urban safety platform) and the E-Movie Center.
+
+💻 Tech Stack: React, JavaScript, Tailwind CSS, and Node.js.
+
+🧪 Philosophy: If it isn't tested with Vitest, it isn't finished.
+
+🚀 Current Goal: Transitioning into Fullstack AI Engineering.
+
 🌍 Based in Ethiopia  
 💻 Frontend Developer | React | JavaScript | Web Apps  
+💻 Frontend Developer passionate about building high-performance web applications and seamless user experiences.
 🧪 Using **Vitest** for testing | Focused on clean, responsive UI  
+
+✨ Test-Driven Development (TDD)
+
+📱 Mobile-First Design
+
+🚀 Performance Optimization
+
 📈 Always learning, building, and improving projects  
+🔭 I’m currently working on Fullstack integration with Node.js
 
 ---
 
@@ -68,11 +85,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical)
 
 --
-[![Amanuel Amare profile views](https://u8views.com/api/v1/github/profiles/193352217/views/day-week-month-total-count.svg)](https://u8views.com/github/amanuel1221)
+![Amanuel Amare profile views](https://u8views.com/api/v1/github/profiles/193352217/views/day-week-month-total-count.svg)](https://u8views.com/github/amanuel1221)
 
+--
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanuel1221&theme=radical)
 
 ## 📫 Contact Me
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanuel-amare-684234372)
 - 📧 Email: bdu1600905@bdu.edu.et  
 - 🌐 Portfolio: [amanuel-portfolio](https://amanuel-portfolio-flame.vercel.app/)  
 - 🐙 GitHub: [amanuel1221](https://github.com/amanuel1221)  
