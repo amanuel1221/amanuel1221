@@ -1,100 +1,292 @@
-# Hi there 👋 I'm Amanuel
+# Hi there 👋 I'm Amanuel Amare
 
-Passionate Frontend Developer dedicated to crafting seamless user experiences. After completing intensive training at ALX, I transitioned into building specialized projects like NuuR (an urban safety platform) and the E-Movie Center.
-
-💻 Tech Stack: React, JavaScript, Tailwind CSS, and Node.js.
-
-🧪 Philosophy: If it isn't tested with Vitest, it isn't finished.
- 
-🚀 Current Goal: Transitioning into Fullstack AI Engineering.
-
+💻 **Frontend Developer | React Developer | MERN Stack Developer**  
 🌍 Based in Ethiopia  
-💻 Frontend Developer | React | JavaScript | Web Apps  
-💻 Frontend Developer passionate about building high-performance web applications and seamless user experiences.
-🧪 Using **Vitest** for testing | Focused on clean, responsive UI  
 
-✨ Test-Driven Development (TDD)
+I am a Software Engineering student passionate about building modern, responsive, and high-performance web applications. I specialize in React, JavaScript, and frontend architecture, while continuously expanding my skills into full-stack development with Node.js, Express, and MongoDB.
 
-📱 Mobile-First Design
+After completing intensive software engineering training through **ALX**, I started building real-world applications including **Aman Blog (MERN full-stack platform)**, **NuuR Safety Platform**, **E-Commerce applications**, and other interactive web projects.
 
-🚀 Performance Optimization
+🧪 **Engineering Philosophy:**  
+> "If it isn't tested with Vitest, it isn't finished."
 
-📈 Always learning, building, and improving projects  
-🔭 I’m currently working on Fullstack integration with Node.js
-
----
-
-## 🚀 My Projects
-
-### 🟢 Portfolio Website
-![Portfolio](https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react)  
-- Built a modern, responsive portfolio to showcase my work  
-- Tech: **React, Tailwind CSS, Vercel**  
-- Live: [amanuel-portfolio](https://amanuel-portfolio-flame.vercel.app/)  
-- Repo: [GitHub](https://github.com/amanuel1221/amanuel-portfolio)
-
-### 🛒 E-commerce Project
-![E-commerce](https://img.shields.io/badge/E--commerce-JS-yellow?style=for-the-badge&logo=javascript)  
-- Shopping cart, favorites toggle, interactive UI  
-- Tech: **HTML, CSS, JavaScript, React**  
-- Skills: Component-based architecture, state management, Vitest testing  
-- Live: [E-commerce App](https://e-commerce-49ma.vercel.app/)  
-- Repo: [GitHub](https://github.com/amanuel1221/e-commerce)
-
-### 🎬 Movie Center
-![Movie Center](https://img.shields.io/badge/Movie_Center-React-red?style=for-the-badge&logo=react)  
-- Web app to browse and explore movies  
-- Tech: **React, API integration**  
-- Live: [Movie Center](https://e-movie-center.vercel.app/)  
-- Repo: [GitHub](https://github.com/amanuel1221/E-movie-center)
-
-### 🍳 Recipe Finder
-![Recipe Finder](https://img.shields.io/badge/Recipe_Finder-JS-blue?style=for-the-badge&logo=javascript)  
-- Search and display recipes dynamically  
-- Tech: **HTML, CSS, JavaScript**  
-- Skills: Dynamic rendering, responsive UI, Vitest testing  
-- Live: [Recipe Finder](https://recipe-finder-app-three-ecru.vercel.app/)  
-- Repo: [GitHub](https://github.com/amanuel1221/Recipe-finder-app)
-
-### 📄 HTML & CSS Learning Projects
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-- Learning projects from **ALX and self-study**  
-- Focused on layout, responsive design, semantic structure  
-- Live: [ALX HTML/CSS](https://alx-html-css-two.vercel.app/)  
-- Repo: [GitHub](https://github.com/amanuel1221/alx_html_css)
+🚀 Currently focused on:
+- Full-stack development with Node.js and MongoDB
+- Building scalable MERN applications
+- Improving software quality through testing
+- Exploring AI-powered application development
 
 ---
 
-## 🛠 Skills & Tools
+# 🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-ffffff?style=for-the-badge&logo=vitest&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## 📝 Aman Blog — Full-Stack MERN Blogging Platform
+
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
+
+A production-style full-stack blogging platform built to combine a developer portfolio experience with a complete content management system.
+
+### ✨ Features
+- 🔐 User authentication with JWT and HTTP-only cookies
+- 📝 Blog creation, editing, and management
+- 💬 Comments, replies, likes, and reactions
+- 👤 Admin dashboard for managing content and users
+- 🖼️ Cloudinary image upload integration
+- 🔍 Search, categories, and filtering
+- 📈 SEO optimization with metadata, sitemap, and structured data
+- 🧪 Frontend and backend testing
+- 🚀 Production deployment with Vercel and Render
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- Axios
+- Vitest
+- React Testing Library
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- bcrypt
+- Cloudinary
+
+**Deployment**
+- Vercel
+- Render
+- MongoDB Atlas
+
+🔗 Live:
+https://aman-blog-seven.vercel.app
+
+📂 Repository:
+https://github.com/amanuel1221/aman-blog
+
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Developer Portfolio
+
+![React](https://img.shields.io/badge/React-Portfolio-blue?style=for-the-badge&logo=react)
+
+A modern developer portfolio created to showcase my projects, skills, and software engineering journey.
+
+### Highlights
+- Responsive mobile-first design
+- Reusable React components
+- Contact form integration using EmailJS
+- SEO optimization
+- Accessibility improvements
+- Performance optimization
+
+⚡ Improved Lighthouse performance score:
+**78 → 99**
+
+🛠 Tech:
+React • Vite • Tailwind CSS • Vitest • EmailJS
+
+🔗 Live:
+https://amanuel-portfolio-flame.vercel.app
+
+📂 Repository:
+https://github.com/amanuel1221/amanuel-portfolio
+
+
+---
+
+## 🛒 E-Commerce Application
+
+![React](https://img.shields.io/badge/E--Commerce-React-yellow?style=for-the-badge&logo=react)
+
+A responsive e-commerce frontend application focused on modern UI patterns and state management.
+
+### Features
+- Product browsing
+- Shopping cart functionality
+- Favorites / wishlist
+- Search and filtering
+- Authentication flow
+- Checkout UI
+- Order history simulation
+- Automated testing
+
+🛠 Tech:
+React • Vite • Tailwind CSS • Zustand • Vitest • Firebase
+
+🔗 Live:
+https://e-commerce-49ma.vercel.app
+
+📂 Repository:
+https://github.com/amanuel1221/e-commerce
+
+
+---
+
+## 🛡️ NuuR Safety Platform — Hackathon Project
+
+![Hackathon](https://img.shields.io/badge/Hackathon-Project-red?style=for-the-badge)
+
+An urban safety platform developed during a hackathon to improve emergency response and location-based safety solutions.
+
+### My Contribution:
+Frontend Engineer
+
+### Responsibilities:
+- Built responsive React interfaces
+- Developed user-focused UI components
+- Implemented frontend workflows
+- Collaborated with the team to deliver the MVP
+
+🛠 Tech:
+React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL
+
+🔗 Live:
+https://nuurg1.vercel.app
+
+📂 Repository:
+https://github.com/amanuel1221/Nuur-cursor-hackathon
+
+
+---
+
+## 🍳 Recipe Finder Application
+
+![React](https://img.shields.io/badge/Recipe-Finder-blue?style=for-the-badge)
+
+A recipe search application that allows users to discover recipes and manage favorites.
+
+### Features:
+- Recipe search
+- Recipe details
+- Firebase authentication
+- Favorite synchronization
+- Responsive UI
+
+🛠 Tech:
+React • Vite • Tailwind CSS • Zustand • Firebase • REST API
+
+🔗 Live:
+https://recipe-finder-app-three-ecru.vercel.app
+
+📂 Repository:
+https://github.com/amanuel1221/Recipe-finder-app
+
+
+---
+
+# 🛠 Technical Skills
+
+## Frontend
+- React
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- React Router
+- Zustand
+- Context API
+- Responsive Design
+
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST APIs
+- JWT Authentication
+
+## Testing
+- Vitest
+- React Testing Library
+- Supertest
+- Unit Testing
+- Integration Testing
+
+## Tools & Deployment
+- Git
+- GitHub
+- GitHub Projects
+- Postman
+- Figma
+- MongoDB Atlas
+- Cloudinary
+- Vercel
+- Render
+- Lighthouse
+
+
+---
+
+# 🧪 Development Practices
+
+✅ Test-driven development mindset  
+✅ Component-based architecture  
+✅ Clean and maintainable code  
+✅ Mobile-first design  
+✅ Performance optimization  
+✅ REST API integration  
+✅ Git workflow and documentation  
+
+
+---
+
+# 📊 GitHub Statistics
 
 ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel1221&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical)
-
---
-[![Amanuel Amare profile views](https://u8views.com/api/v1/github/profiles/193352217/views/day-week-month-total-count.svg)](https://u8views.com/github/amanuel1221)
-
---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanuel1221&theme=radical)
 
-## 📫 Contact Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanuel-amare-684234372)
-- 📧 Email: bdu1600905@bdu.edu.et  
-- 🌐 Portfolio: [amanuel-portfolio](https://amanuel-portfolio-flame.vercel.app/)  
-- 🐙 GitHub: [amanuel1221](https://github.com/amanuel1221)  
 
 ---
+
+# 🏆 Achievements
+
+- 🚀 Built 30+ public GitHub repositories
+- 💻 Developed multiple React and MERN applications
+- 📈 Maintained 999+ GitHub contributions
+- ⚡ Achieved 99 Lighthouse performance score
+- 🧪 Implemented automated testing across projects
+- 🎓 Completed ALX Software Engineering Program
+
+
+---
+
+# 📚 Certifications
+
+- ALX Software Engineering Program
+- ALX Professional Foundations
+- Ethiocoder — Udacity UAE Sponsored Program
+- Cursor Hackathon Recognition Certificate
+
+
+---
+
+# 📫 Contact Me
+
+💼 LinkedIn:
+https://linkedin.com/in/amanuel-amare-684234372
+
+📧 Email:
+bdu1600905@bdu.edu.et
+
+🌐 Portfolio:
+https://amanuel-portfolio-flame.vercel.app
+
+🐙 GitHub:
+https://github.com/amanuel1221
+
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I am always learning, building, and improving as a software engineer.
