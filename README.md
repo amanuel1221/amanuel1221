@@ -1,292 +1,220 @@
-# Hi there 👋 I'm Amanuel Amare
+# Hi, I'm Amanuel Amare
 
-💻 **Frontend Developer | React Developer | MERN Stack Developer**  
-🌍 Based in Ethiopia  
+### Full Stack Developer · Performance Specialist · Software Engineering Student
 
-I am a Software Engineering student passionate about building modern, responsive, and high-performance web applications. I specialize in React, JavaScript, and frontend architecture, while continuously expanding my skills into full-stack development with Node.js, Express, and MongoDB.
+I build **fast, maintainable, and production-oriented web applications** with a strong focus on **React, performance engineering, automated testing, and full-stack development**.
 
-After completing intensive software engineering training through **ALX**, I started building real-world applications including **Aman Blog (MERN full-stack platform)**, **NuuR Safety Platform**, **E-Commerce applications**, and other interactive web projects.
+My work spans from building responsive React applications and optimizing frontend performance to developing REST APIs, authentication systems, database-backed applications, PWAs, and AI-powered features.
 
-🧪 **Engineering Philosophy:**  
-> "If it isn't tested with Vitest, it isn't finished."
+I am currently strengthening my backend and system-design skills while exploring **AI engineering and AI-powered applications**.
 
-🚀 Currently focused on:
-- Full-stack development with Node.js and MongoDB
-- Building scalable MERN applications
-- Improving software quality through testing
-- Exploring AI-powered application development
+### Current Focus
 
----
+* Full-stack development with **React, Node.js, Express, and MongoDB**
+* **React performance** and frontend optimization
+* Automated testing with **Vitest, React Testing Library, and Supertest**
+* Building **AI-powered applications**
+* Backend architecture and API design
+* Learning **TypeScript, Next.js, and system design**
 
-# 🚀 Featured Projects
+### Engineering Philosophy
 
-## 📝 Aman Blog — Full-Stack MERN Blogging Platform
+> **Build it. Test it. Measure it. Improve it.**
 
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
-
-A production-style full-stack blogging platform built to combine a developer portfolio experience with a complete content management system.
-
-### ✨ Features
-- 🔐 User authentication with JWT and HTTP-only cookies
-- 📝 Blog creation, editing, and management
-- 💬 Comments, replies, likes, and reactions
-- 👤 Admin dashboard for managing content and users
-- 🖼️ Cloudinary image upload integration
-- 🔍 Search, categories, and filtering
-- 📈 SEO optimization with metadata, sitemap, and structured data
-- 🧪 Frontend and backend testing
-- 🚀 Production deployment with Vercel and Render
-
-### 🛠 Tech Stack
-
-**Frontend**
-- React
-- Vite
-- Tailwind CSS
-- React Router
-- Axios
-- Vitest
-- React Testing Library
-
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT Authentication
-- bcrypt
-- Cloudinary
-
-**Deployment**
-- Vercel
-- Render
-- MongoDB Atlas
-
-🔗 Live:
-https://aman-blog-seven.vercel.app
-
-📂 Repository:
-https://github.com/amanuel1221/aman-blog
-
+I prefer **evidence over hype** — whether that means measuring performance with Lighthouse, verifying behavior with automated tests, or improving an architecture based on real implementation problems.
 
 ---
 
-## 🌐 Developer Portfolio
+**Based in Ethiopia · Software Engineering @ Bahir Dar University**
 
-![React](https://img.shields.io/badge/React-Portfolio-blue?style=for-the-badge&logo=react)
+# Featured Projects
 
-A modern developer portfolio created to showcase my projects, skills, and software engineering journey.
+## Aman Blog — Full-Stack MERN Platform
 
-### Highlights
-- Responsive mobile-first design
-- Reusable React components
-- Contact form integration using EmailJS
-- SEO optimization
-- Accessibility improvements
-- Performance optimization
+A production-oriented blogging platform built with **React, Node.js, Express, and MongoDB**, combining content management, authentication, community features, and administration.
 
-⚡ Improved Lighthouse performance score:
-**78 → 99**
+**Engineering highlights:**
 
-🛠 Tech:
-React • Vite • Tailwind CSS • Vitest • EmailJS
+* JWT authentication with HTTP-only cookies
+* Google OAuth authentication
+* Comments, replies, reactions, and permissions
+* Admin dashboard and content management
+* Cloudinary media uploads
+* PWA with service worker and runtime caching
+* SEO metadata, sitemap, and structured data
+* Gmail/Nodemailer email automation
+* **51 test files and 398 assertions** across frontend and backend
 
-🔗 Live:
-https://amanuel-portfolio-flame.vercel.app
+**Stack:** React · Vite · Node.js · Express · MongoDB · Vitest · React Testing Library · Supertest
 
-📂 Repository:
-https://github.com/amanuel1221/amanuel-portfolio
-
+[Live Demo](https://aman-blog-seven.vercel.app) · [Source Code](https://github.com/amanuel1221/aman-blog)
 
 ---
 
-## 🛒 E-Commerce Application
+## Developer Portfolio — React + AI
 
-![React](https://img.shields.io/badge/E--Commerce-React-yellow?style=for-the-badge&logo=react)
+A performance-focused developer portfolio designed to showcase my work while demonstrating frontend engineering, testing, and AI integration.
 
-A responsive e-commerce frontend application focused on modern UI patterns and state management.
+**Engineering highlights:**
 
-### Features
-- Product browsing
-- Shopping cart functionality
-- Favorites / wishlist
-- Search and filtering
-- Authentication flow
-- Checkout UI
-- Order history simulation
-- Automated testing
+* Lighthouse performance improved from **78 → 99**
+* LCP improved from **1.9s → 0.8s**
+* TBT improved from **820ms → 0ms**
+* **Redat AI assistant** powered by Gemini
+* Local routing for predictable portfolio questions
+* Personal portfolio data as AI context
+* Response caching for frequently requested information
+* Conversation history and contextual responses
+* Vitest frontend testing
+* EmailJS contact automation
 
-🛠 Tech:
-React • Vite • Tailwind CSS • Zustand • Vitest • Firebase
+**Stack:** React · Vite · Tailwind CSS · Framer Motion · Vitest · Gemini · EmailJS
 
-🔗 Live:
-https://e-commerce-49ma.vercel.app
-
-📂 Repository:
-https://github.com/amanuel1221/e-commerce
-
+[Live Demo](https://amanuel-portfolio-flame.vercel.app) · [Source Code](https://github.com/amanuel1221/amanuel-portfolio)
 
 ---
 
-## 🛡️ NuuR Safety Platform — Hackathon Project
+## Telegram Academy — PDF Learning Platform
 
-![Hackathon](https://img.shields.io/badge/Hackathon-Project-red?style=for-the-badge)
+A Telegram-based learning platform designed around course content and PDF-based educational material.
 
-An urban safety platform developed during a hackathon to improve emergency response and location-based safety solutions.
+**Highlights:**
 
-### My Contribution:
-Frontend Engineer
+* Telegram Mini App integration
+* Student and teacher roles
+* PDF learning workflow
+* Mobile-focused experience
+* Designed for real-world usage rather than a static demo
 
-### Responsibilities:
-- Built responsive React interfaces
-- Developed user-focused UI components
-- Implemented frontend workflows
-- Collaborated with the team to deliver the MVP
+**Stack:** React · Vite · Tailwind CSS · Telegram Mini Apps
 
-🛠 Tech:
-React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL
-
-🔗 Live:
-https://nuurg1.vercel.app
-
-📂 Repository:
-https://github.com/amanuel1221/Nuur-cursor-hackathon
-
+[Source Code](https://github.com/amanuel1221/telegram-lms)
 
 ---
 
-## 🍳 Recipe Finder Application
+## E-Commerce Application
 
-![React](https://img.shields.io/badge/Recipe-Finder-blue?style=for-the-badge)
+A responsive e-commerce application focused on reusable React components, state management, authentication flows, and automated testing.
 
-A recipe search application that allows users to discover recipes and manage favorites.
+**Features:**
 
-### Features:
-- Recipe search
-- Recipe details
-- Firebase authentication
-- Favorite synchronization
-- Responsive UI
+* Product browsing and search
+* Shopping cart and wishlist
+* Authentication flow
+* Checkout and order-history UI
+* Zustand state management
+* Automated frontend testing
 
-🛠 Tech:
-React • Vite • Tailwind CSS • Zustand • Firebase • REST API
+**Stack:** React · Vite · Tailwind CSS · Zustand · Vitest · Firebase
 
-🔗 Live:
-https://recipe-finder-app-three-ecru.vercel.app
-
-📂 Repository:
-https://github.com/amanuel1221/Recipe-finder-app
-
+[Live Demo](https://e-commerce-49ma.vercel.app) · [Source Code](https://github.com/amanuel1221/e-commerce)
 
 ---
 
-# 🛠 Technical Skills
+## NuuR Safety Platform — Hackathon
 
-## Frontend
-- React
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- React Router
-- Zustand
-- Context API
-- Responsive Design
+An urban safety platform developed during a hackathon to explore emergency response and location-based safety workflows.
 
-## Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
-- JWT Authentication
+**My role:** Frontend Engineer
 
-## Testing
-- Vitest
-- React Testing Library
-- Supertest
-- Unit Testing
-- Integration Testing
+**Contribution:**
 
-## Tools & Deployment
-- Git
-- GitHub
-- GitHub Projects
-- Postman
-- Figma
-- MongoDB Atlas
-- Cloudinary
-- Vercel
-- Render
-- Lighthouse
+* Built responsive React interfaces
+* Developed reusable UI components
+* Implemented frontend workflows
+* Collaborated with the team to deliver the MVP
 
+**Stack:** React · TypeScript · Tailwind CSS · FastAPI · PostgreSQL
+
+[Live Demo](https://nuurg1.vercel.app) · [Source Code](https://github.com/amanuel1221/Nuur-cursor-hackathon)
+
+
+# Technical Skills
+
+### Frontend
+
+React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Vite · React Router · Zustand · Context API · Responsive Design
+
+### Backend
+
+Node.js · Express.js · MongoDB · Mongoose · REST APIs · JWT Authentication · HTTP-only Cookies
+
+### Testing & Quality
+
+Vitest · React Testing Library · Supertest · Unit Testing · Integration Testing · API Testing · Testable Component Architecture
+
+### Performance & Web Engineering
+
+Lighthouse · Code Splitting · Lazy Loading · Image Optimization · Caching · PWA · SEO · Accessibility · Responsive Performance
+
+### AI & Application Integration
+
+Gemini API · AI-assisted applications · Local Response Routing · Context-Aware Responses · Response Caching · Structured Application Data
+
+### Tools & Infrastructure
+
+Git · GitHub · Postman · Figma · MongoDB Atlas · Cloudinary · Vercel · Render · EmailJS
+
+### Currently Exploring
+
+TypeScript · Next.js · Backend Architecture · System Design · AI Engineering
+
+
+# Engineering Practices
+
+I approach development with an emphasis on **measurable results, maintainability, and reliable user-facing behavior**.
+
+* **Performance:** Profile applications with Lighthouse and optimize real bottlenecks
+* **Testing:** Use Vitest, React Testing Library, and Supertest to verify important behavior
+* **Architecture:** Build reusable components and separate application responsibilities
+* **API Development:** Design and integrate REST APIs with validation and authentication
+* **Security:** Use protected routes, JWT sessions, HTTP-only cookies, and backend authorization
+* **PWA:** Work with service workers, caching strategies, installability, and app-like experiences
+* **AI Integration:** Combine application data, local routing, caching, context, and AI models
+* **Debugging:** Investigate root causes instead of relying on temporary fixes
+* **Deployment:** Work with production environments using Vercel, Render, MongoDB Atlas, and Cloudinary
+* **Documentation:** Keep projects structured and documented so they can be understood and maintained
+
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanuel1221&show_icons=true&theme=radical" alt="Amanuel's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical" alt="Amanuel's Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuel1221&theme=radical" alt="Amanuel's GitHub Contribution Streak" />
+</p>
+
+# Education & Certifications
+
+### Education
+
+**BSc in Software Engineering**
+Bahir Dar University · 2025–2029
+
+### Professional Training
+
+* **ALX Software Engineering Program**
+* **ALX Professional Foundations**
+* **Ethiocoder — Udacity UAE Sponsored Program**
+
+### Recognition
+
+* **Cursor Hackathon Recognition Certificate**
+
+# Contact
+
+I'm open to opportunities involving **frontend engineering, full-stack development, performance optimization, testing, and AI-powered applications**.
+
+* **Email:** [bdu1600905@bdu.edu.et](mailto:bdu1600905@bdu.edu.et)
+* **LinkedIn:** https://linkedin.com/in/amanuel-amare-684234372
+* **Portfolio:** https://amanuel-portfolio-flame.vercel.app
+* **GitHub:** https://github.com/amanuel1221
 
 ---
 
-# 🧪 Development Practices
-
-✅ Test-driven development mindset  
-✅ Component-based architecture  
-✅ Clean and maintainable code  
-✅ Mobile-first design  
-✅ Performance optimization  
-✅ REST API integration  
-✅ Git workflow and documentation  
-
-
----
-
-# 📊 GitHub Statistics
-
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel1221&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel1221&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanuel1221&theme=radical)
-
-
----
-
-# 🏆 Achievements
-
-- 🚀 Built 30+ public GitHub repositories
-- 💻 Developed multiple React and MERN applications
-- 📈 Maintained 999+ GitHub contributions
-- ⚡ Achieved 99 Lighthouse performance score
-- 🧪 Implemented automated testing across projects
-- 🎓 Completed ALX Software Engineering Program
-
-
----
-
-# 📚 Certifications
-
-- ALX Software Engineering Program
-- ALX Professional Foundations
-- Ethiocoder — Udacity UAE Sponsored Program
-- Cursor Hackathon Recognition Certificate
-
-
----
-
-# 📫 Contact Me
-
-💼 LinkedIn:
-https://linkedin.com/in/amanuel-amare-684234372
-
-📧 Email:
-bdu1600905@bdu.edu.et
-
-🌐 Portfolio:
-https://amanuel-portfolio-flame.vercel.app
-
-🐙 GitHub:
-https://github.com/amanuel1221
-
-
----
-
-⭐ Thanks for visiting my profile!
-
-I am always learning, building, and improving as a software engineer.
+Built with React, JavaScript, and a continuous focus on **performance, quality, and learning**.
