@@ -88,7 +88,7 @@ A Telegram-based learning platform designed around course content and PDF-based 
 
 **Stack:** React · Vite · Tailwind CSS · Telegram Mini Apps
 
-[Source Code](https://github.com/amanuel1221/telegram-lms)
+[Source Code](https://github.com/amanuel1221/telegram-mini-app)
 
 ---
 
