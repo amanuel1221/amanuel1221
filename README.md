@@ -74,6 +74,32 @@ A performance-focused developer portfolio designed to showcase my work while dem
 
 ---
 
+Wude Coffee — Full-Stack Café Platform
+
+A production-deployed full-stack platform built for Wude Coffee House, combining a customer-facing café experience with an administrative system for managing business content and monitoring website activity.
+
+Engineering highlights:
+
+Production deployment with custom wudecoffee.com domain
+Responsive React café website
+Dynamic menu management
+Admin authentication and protected management operations
+Customer reviews and review management
+Customer message management
+Website analytics tracked through the backend
+Admin analytics dashboard for monitoring visitor activity
+Analytics for identifying popular pages and visitor activity by page
+MongoDB data management
+Cloudinary media integration
+Node.js/Express REST API
+Mobile-first interface designed for real-world café customers
+
+Stack: React · Vite · Tailwind CSS · Framer Motion · Node.js · Express · MongoDB · Mongoose · Cloudinary
+
+Live Website · Source Code
+
+---
+
 ## Telegram Academy — PDF Learning Platform
 
 A Telegram-based learning platform designed around course content and PDF-based educational material.
