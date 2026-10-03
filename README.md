@@ -73,30 +73,30 @@ A performance-focused developer portfolio designed to showcase my work while dem
 [Live Demo](https://amanuel-portfolio-flame.vercel.app) · [Source Code](https://github.com/amanuel1221/amanuel-portfolio)
 
 ---
+## Wude Coffee — Full-Stack Café Platform
 
-Wude Coffee — Full-Stack Café Platform
+A production-deployed full-stack platform built for **Wude Coffee House**, combining a customer-facing café website with an administrative system for managing business content and monitoring website activity.
 
-A production-deployed full-stack platform built for Wude Coffee House, combining a customer-facing café experience with an administrative system for managing business content and monitoring website activity.
+**Engineering highlights:**
 
-Engineering highlights:
+* Production deployment with custom **wudecoffee.com** domain
+* Responsive React café website
+* Dynamic menu management
+* Admin authentication and protected management operations
+* Customer reviews and review management
+* Customer message management
+* Website analytics and visitor tracking
+* Admin dashboard for monitoring **total visitors and page activity**
+* Identify **most-visited pages** through analytics
+* MongoDB data management
+* Cloudinary media integration
+* Node.js/Express REST API
+* Mobile-first experience designed for real-world café customers
 
-Production deployment with custom wudecoffee.com domain
-Responsive React café website
-Dynamic menu management
-Admin authentication and protected management operations
-Customer reviews and review management
-Customer message management
-Website analytics tracked through the backend
-Admin analytics dashboard for monitoring visitor activity
-Analytics for identifying popular pages and visitor activity by page
-MongoDB data management
-Cloudinary media integration
-Node.js/Express REST API
-Mobile-first interface designed for real-world café customers
+**Stack:** React · Vite · Tailwind CSS · Framer Motion · Node.js · Express · MongoDB · Mongoose · Cloudinary
 
-Stack: React · Vite · Tailwind CSS · Framer Motion · Node.js · Express · MongoDB · Mongoose · Cloudinary
+[Live Website](https://wudecoffee.com) · [Source Code](https://github.com/amanuel1221/wude-coffee)
 
-Live Website · Source Code
 
 ---
 
